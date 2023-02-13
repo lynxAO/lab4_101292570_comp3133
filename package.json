@@ -1,0 +1,19 @@
+{
+  "name": "lab4_101292570_comp3133",
+  "version": "1.0.0",
+  "description": "Week 5 Lab Exercise 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "AO 101292570",
+  "license": "ISC",
+  "dependencies": {
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
